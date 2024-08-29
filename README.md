@@ -1,15 +1,19 @@
-
-### Olá, eu sou o Marcelo Calegare, Seja Bem Vindo ao meu perfil!👋🏼
-### Minhas redes sociais!👇🏼
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-calegare)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcelocalegare/)
+### Olá, eu sou o Marcelo Calegare! Bem Vindo ao meu perfil!👋🏼
 
 ![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelocalegare&show_icons=true&theme=omni)
 
+##
+
 ### Tecnologias que estou aprendendo!
 <div style="display: inline_block">
-    <img align="center" alt="python" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-</div></br>
+    <img align="center" alt="C" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">  
+    <img align="center" alt="python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+</div>
 
+##
+
+### Minhas redes sociais!👇🏼
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-calegare)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcelocalegare/)
 
 
