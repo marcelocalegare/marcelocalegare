@@ -4,12 +4,17 @@
 
 ##
 
-![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelocalegare&show_icons=true&theme=omni)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelocalegare&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 
 ##
 
-Tecnologias que estou aprendendo:
+
+Technologies I'm learning:
 <div style="display: inline_block">
     <img align="center" alt="C" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">  
     <img align="center" alt="python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
