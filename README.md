@@ -18,7 +18,7 @@ Technologies I'm learning:
 <div style="display: inline_block">
     <img align="center" alt="C" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">  
     <img align="center" alt="python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img aling="center" alt="Java" heitgh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+  <img aling="center" alt="Java" heitgh="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.sv](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg)g">
 </div>
 
 ##
