@@ -3,7 +3,6 @@
 <br><code>Welcome to my github!👨🏻‍💻</code></br>
 
 ##
-##
 
 
 Technologies I'm learning:
