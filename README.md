@@ -1,21 +1,57 @@
-<div><code>Marcelo Henrique Calegare dos Santos</code></div>
-<br><code>12/04/2006</code></br>
-<br><code>Welcome to my github!👨🏻‍💻</code></br>
+# Hello, i'm Marcelo!
 
-##
+Back-End focused in JAVA
 
+---
 
-Technologies I'm learning:
-<div style="display: inline_block">
-    <img align="center" alt="C" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">  
-    <img align="center" alt="python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-    <img align="center" alt="java" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"> 
+## Tech Stack
+<div align="left">
+
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
 </div>
 
-##
+### **Cloud, DevOps & Infra**
+<div align="left">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-calegare)
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
-##
+</div>
 
-Enjoy :)
+---
+
+## About Me
+
+- 19y — Developer from Brazil 🇧🇷  
+- Focused on **Java**
+- I like to create things that are quick, direct and useful
+- Always evolving stack, practices, and productivity
+
+---
+
+## ⚙️ Workflow / Tooling
+
+- VSCode  
+- Git (GitHub & Bitbucket)  
+- Docker / Docker Compose  
+
+## Contact
+
+<div align="left">
+  <table>
+       <tr>
+         <td><strong>LinkedIn</strong></td> <td><a href="https://www.linkedin.com/in/marcelocalegare">linkedin.com/in/marcelocalegare</a></td>
+       </tr>
+        <tr>
+          <td><strong>Email</strong></td> <td><a href="mailto:marcelocalegare06@gmail.com">marcelocalegare06@gmail.com</a></td>
+        </tr> 
+  </table>
+</div>
+
+---
