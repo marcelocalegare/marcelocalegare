@@ -35,7 +35,7 @@ Back-End focused in JAVA
 
 ## ⚙️ Workflow / Tooling
 
-- VSCode  
+- VSCode  | Intellij
 - Git (GitHub & Bitbucket)  
 - Docker / Docker Compose  
 
