@@ -47,7 +47,7 @@ Back-End focused in JAVA
          <td><strong>LinkedIn</strong></td> <td><a href="https://www.linkedin.com/in/marcelo-calegare/">linkedin.com/in/marcelo-calegare</a></td>
        </tr>
         <tr>
-          <td><strong>Email</strong></td> <td><a href="mailto:marcelocalegaredev@gmail.com">marcelocalegare06@gmail.com</a></td>
+          <td><strong>Email</strong></td> <td><a href="mailto:marcelocalegaredev@gmail.com">marcelocalegaredev@gmail.com</a></td>
         </tr> 
   </table>
 </div>
