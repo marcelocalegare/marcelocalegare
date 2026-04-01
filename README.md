@@ -1,9 +1,5 @@
 # Hello, i'm Marcelo!
 
-Back-End focused in JAVA
-
----
-
 ## Tech Stack
 <div align="left">
 
@@ -27,7 +23,7 @@ Back-End focused in JAVA
 ## About Me
 
 - 19y — Developer from Brazil 🇧🇷  
-- Focused on **Java**
+- Focused on **Java and Python**
 - I like to create things that are quick, direct and useful
 - Always evolving stack, practices, and productivity
 
