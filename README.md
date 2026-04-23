@@ -14,7 +14,7 @@
 
 ## About Me
 
-- 19y — Developer from Brazil 🇧🇷  
+- 20y — Developer from Brazil 🇧🇷  
 - Focused on **Java and Python**
 - I like to create things that are quick, direct and useful
 - Always evolving stack, practices, and productivity
